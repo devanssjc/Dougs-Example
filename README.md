@@ -43,6 +43,31 @@ https://github.com/TorkamaniLab/preprocessing_reference_panels_for_phasing_imput
        * i
        * j  
 
+To prepare an txt input taken by `--vcf` as:
+```
+/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr1.vcf.gz
+2	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr2.vcf.gz
+3	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr3.vcf.gz
+4	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr4.vcf.gz
+5	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr5.vcf.gz
+6	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr6.vcf.gz
+7	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr7.vcf.gz
+8	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr8.vcf.gz
+9	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr9.vcf.gz
+10	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr10.vcf.gz
+11	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr11.vcf.gz
+12	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr12.vcf.gz
+13	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr13.vcf.gz
+14	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr14.vcf.gz
+15	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr15.vcf.gz
+16	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr16.vcf.gz
+17	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr17.vcf.gz
+18	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr18.vcf.gz
+19	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr19.vcf.gz
+20	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr20.vcf.gz
+21	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr21.vcf.gz
+22	/mnt/stsi/stsi0/sfchen/UKBB/split_QC/ukbb_hap_v2_000/ukb_hap_v2_000_chr22.vcf.gz
+```
 
 
 
