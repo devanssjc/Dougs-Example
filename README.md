@@ -4,3 +4,4 @@
 normal text
 
 **bold text**
+*italicized text*
