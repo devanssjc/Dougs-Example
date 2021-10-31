@@ -8,6 +8,7 @@ normal text
 *italicized text*
 
 > blockquote
+> 
 > Block quote line 2
 
 Empty line after blockquote line 2
