@@ -5,6 +5,8 @@ normal text
 
 **bold text**
 
+__another way to do bold text__
+
 *italicized text*
 
 > blockquote 
