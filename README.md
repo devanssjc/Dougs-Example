@@ -1,5 +1,6 @@
 # H1
 ## H2
 ### H3
-normal text\n
+normal text
+
 **bold text**
