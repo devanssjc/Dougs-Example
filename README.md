@@ -7,7 +7,7 @@ normal text
 
 *italicized text*
 
-> 1 blockquote 
+> blockquote 
 > 
 > Block quote line 2 
 
