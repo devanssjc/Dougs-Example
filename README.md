@@ -40,6 +40,8 @@ https://github.com/TorkamaniLab/preprocessing_reference_panels_for_phasing_imput
     * b
     * c
     * d
+       * i
+       * j  
 
 
 
