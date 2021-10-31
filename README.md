@@ -6,6 +6,9 @@ normal text
 **bold text**
 *italicized text*
 
+https://github.com/TorkamaniLab/preprocessing_reference_panels_for_phasing_imputation
+[Torkamani Github](https://github.com/TorkamaniLab/preprocessing_reference_panels_for_phasing_imputation)
+
 
 # Genotype_Imputation_Pipeline
 A tool for imputation of genotype array datasets from dbGaP. The Genotype Imputation Pipeline consists of the following steps:
